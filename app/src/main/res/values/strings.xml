@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Beer+</string>
+    <string name="reiniciar_button">Reiniciar</string>
+    <string name="restar_button">Restar</string>
+    <string name="salud">Salud!</string>
+    <string name="recomendacion1">Ahora mismo no es buena idea conducir!</string>
+    <string name="recomendacion2">Recuerda hidratarte muy bien la mañana siguiente.</string>
+    <string name="recomendacion3">Si no estas en casa deberías llamar un taxi.</string>
+    <string name="recomendacion4">Por favor no llames a tu ex!</string>
+    <string name="comenzar_cuenta">Comenzar cuenta otra vez.</string>
+    <string name="pregunta_cuenta">¿Desea comenzar la cuenta otra vez?</string>
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+    <string name="costo_cerveza">Costo de la cerveza:</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="pago">Pago</string>
+    <string name="deuda_actual">Tu deuda actual es de: $</string>
+    <string name="endendido">ENTENDIDO</string>
+    <string name="derechos_reservados">BrainStorm Ideas 2019. Todos los derechos reservados.</string>
+    <string name="dato_vacio">Porfavor ingrese un precio!</string>
+    <string name="dato_incorrecto">Precio inválido.</string>
+</resources>

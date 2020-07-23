@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beer+</string>
+    <string name="reiniciar_button">Restart</string>
+    <string name="restar_button">Subtract</string>
+    <string name="salud">Cheers!</string>
+    <string name="recomendacion1">It is not a good idea to drive right now!</string>
+    <string name="recomendacion2">Remember to hydrate very well the next morning.</string>
+    <string name="recomendacion3">If you are not at home you should call a taxi.</string>
+    <string name="recomendacion4">Please do not call your ex!</string>
+    <string name="comenzar_cuenta">Start count again.</string>
+    <string name="pregunta_cuenta">Do you want to start the count again?</string>
+    <string name="si">YES</string>
+    <string name="no">NO</string>
+    <string name="costo_cerveza">Beer price:</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">CANCEL</string>
+    <string name="pago">Payment</string>
+    <string name="deuda_actual">Your current debt is: $</string>
+    <string name="endendido">Got it!</string>
+    <string name="derechos_reservados">BrainStorm Ideas 2019. All rights reserved.</string>
+    <string name="dato_vacio">Please enter a price !</string>
+    <string name="dato_incorrecto">Invalid price.</string>
+</resources>
